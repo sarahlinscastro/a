@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.area-menu{
+display: flex;
+align-items: center;
+margin-left: 40px;
+}
+
+h3, p{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
